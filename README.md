@@ -1,6 +1,6 @@
 Traversing-Square-Grid Problem
 
-The Following Problem is part of the Data Structures and Algorithms course:
+The Following Problem involves the knowledge of Data Structures and Algorithms:
 
 
 **Problem Details:**
