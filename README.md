@@ -58,3 +58,6 @@ Note:
 If you are not able to get the answer due to timeout, you can reduce the grid size (for example, grid size to 6 x 6), but certainly, you cannot earn the full score since your program experiences a timeout. 😊.
 Improve the time complexity of your code, and this will subsequently reduce the execution time. 👍
 Items 1 and 2 above are related. 😊
+
+Video Link for Use of our solution: https://youtu.be/247PQT7mZW8
+
